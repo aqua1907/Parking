@@ -1,0 +1,244 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612282355,
+        "id": 1,
+        "lead_time": 0.434,
+        "result": []
+      }
+    ],
+    "data": {
+      "image": "/data/upload/f54de8-IMG_2077.JPG"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1612282349,
+        "id": 1001,
+        "lead_time": 56.028,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "gFQ-4qOFl5",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 10.301953818827709,
+              "rectanglelabels": [
+                "Occupied"
+              ],
+              "rotation": 0,
+              "width": 21.066666666666666,
+              "x": 28.266666666666666,
+              "y": 76.73179396092362
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Bpp8s4u8Jh",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 7.815275310834814,
+              "rectanglelabels": [
+                "Empty"
+              ],
+              "rotation": 0,
+              "width": 15.866666666666667,
+              "x": 34,
+              "y": 63.765541740674955
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "LrIcVSbVkx",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 9.41385435168739,
+              "rectanglelabels": [
+                "Occupied"
+              ],
+              "rotation": 0,
+              "width": 17.2,
+              "x": 37.06666666666667,
+              "y": 46.53641207815275
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ynDQDo1pGL",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 5.86145648312611,
+              "rectanglelabels": [
+                "Empty"
+              ],
+              "rotation": 0,
+              "width": 12.933333333333334,
+              "x": 42.53333333333333,
+              "y": 37.300177619893425
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-sSml0DRHk",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 6.571936056838366,
+              "rectanglelabels": [
+                "Empty"
+              ],
+              "rotation": 0,
+              "width": 10.8,
+              "x": 44.666666666666664,
+              "y": 28.77442273534636
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lpBeMk9Xfr",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 6.039076376554174,
+              "rectanglelabels": [
+                "Occupied"
+              ],
+              "rotation": 0,
+              "width": 10.933333333333334,
+              "x": 48.4,
+              "y": 19.182948490230906
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XXQZeSXj9j",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 4.7957371225577266,
+              "rectanglelabels": [
+                "Occupied"
+              ],
+              "rotation": 0,
+              "width": 10.8,
+              "x": 49.6,
+              "y": 12.078152753108348
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "i4nxK8Apq3",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 4.085257548845471,
+              "rectanglelabels": [
+                "Occupied"
+              ],
+              "rotation": 0,
+              "width": 9.733333333333333,
+              "x": 51.46666666666667,
+              "y": 7.104795737122558
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1Lx1CUimt5",
+            "image_rotation": 0,
+            "original_height": 2448,
+            "original_width": 3264,
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 3.197158081705151,
+              "rectanglelabels": [
+                "Occupied"
+              ],
+              "rotation": 0,
+              "width": 7.733333333333333,
+              "x": 54,
+              "y": 1.0657193605683837
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "/data/upload/d990a8-IMG_2078.JPG"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1612282356,
+        "id": 2001,
+        "lead_time": 0.611,
+        "result": []
+      }
+    ],
+    "data": {
+      "image": "/data/upload/1db67d-IMG_2079.JPG"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1612282353,
+        "id": 3001,
+        "lead_time": 0.803,
+        "result": []
+      }
+    ],
+    "data": {
+      "image": "/data/upload/27b851-IMG_2080.JPG"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1612282358,
+        "id": 4001,
+        "lead_time": 0.59,
+        "result": []
+      }
+    ],
+    "data": {
+      "image": "/data/upload/574212-IMG_2081.JPG"
+    },
+    "id": 4
+  }
+]
